@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f447adc-2ef1-475e-9841-dfc04e62e01f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_mysql/db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_mysql/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_mysql/includes/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_mysql/includes/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_mysql/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_mysql/login_create.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_mysql/login_delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_mysql/login_read.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_mysql/login_update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/10.php" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/10.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/6.php" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/7.php" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/8.php" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/9.php" beforeDir="false" afterPath="$PROJECT_DIR$/Course_Exercise_Files/demo/_practical-app/9.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/array_functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/arrays.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/arrays_assoc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/blank.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/class_access.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/class_car.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/class_car2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/class_car3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/class_constructor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/class_inheritance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/class_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/comments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/comparison_operators.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/constants.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/cookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/dynamic_text.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/embed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/for_loop.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/foreach.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/form_external.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/form_process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/get.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/ifstatement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/math.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/math_functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/methods_params.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/passing_params_functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/return_values_functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/scope.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/session1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/session2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/string_functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/strings_numbers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/switch_statements.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/the_post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/time.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/variables.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course_Exercise_Files/demo/while_loop.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Course_Exercise_Files/demo" />
+  </component>
+  <component name="ProjectId" id="1qR36AJIQq1LcfHmdUHpWWX0dHP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Cms" />
+      <recent name="$PROJECT_DIR$/Form_Data/example" />
+      <recent name="$PROJECT_DIR$/Form_Data" />
+      <recent name="$PROJECT_DIR$/Built_in_Functions" />
+      <recent name="$PROJECT_DIR$/Custom_Functions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f447adc-2ef1-475e-9841-dfc04e62e01f" name="Default Changelist" comment="" />
+      <created>1617028397297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617028397297</updated>
+      <workItem from="1617028398321" duration="2377000" />
+      <workItem from="1617109556928" duration="25479000" />
+      <workItem from="1617194297235" duration="25312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="342" width="569" height="408" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617127321221">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="673" y="342" width="569" height="408" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.2048.1152/0.27.1920.1053@0.27.1920.1053" timestamp="1617127321221" />
+    <state x="703" y="284" width="509" height="525" key="FileChooserDialogImpl" timestamp="1617029461180">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="703" y="284" width="509" height="525" key="FileChooserDialogImpl/1920.0.2048.1152/0.27.1920.1053@0.27.1920.1053" timestamp="1617029461180" />
+    <state x="452" y="175" width="1016" height="742" key="SettingsEditor" timestamp="1617029520680">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="452" y="175" width="1016" height="742" key="SettingsEditor/1920.0.2048.1152/0.27.1920.1053@0.27.1920.1053" timestamp="1617029520680" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1617121049532">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/1920.0.2048.1152/0.27.1920.1053@0.27.1920.1053" timestamp="1617121049532" />
+  </component>
+</project>
